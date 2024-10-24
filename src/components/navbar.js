@@ -8,3 +8,7 @@ class Navbar extends Component {
 }
  
 export default Navbar;
+
+
+const test = <h1>Servus</h1>
+//das ist nur ein test
